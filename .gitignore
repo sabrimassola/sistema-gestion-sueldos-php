@@ -1,0 +1,16 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs / temp
+*.log
+tmp/
+temp/
+
+# VS Code
+.vscode/
+
+# Env / secrets
+.env
+
+conexion.php
