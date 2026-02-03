@@ -43,7 +43,13 @@ Este sistema le permite a supervisores administrar empleados, conceptos salarial
 3. Importar la base de datos (`.sql`) en **phpMyAdmin**
 4. Configurar `conexion.php`.
 5. Abrir en el navegador: `http://localhost/NOMBRE_CARPETA/logininiciosesiones.php`
- 
+
+## Configuración de la base de datos
+
+El archivo `conexionEjemplo.php` contiene un ejemplo de configuración.
+Para ejecutar el proyecto, copiarlo como `conexion.php` y ajustar los datos
+según el entorno local.
+
 ---
 
 ## Capturas del sistema
