@@ -41,7 +41,7 @@ Este sistema le permite a supervisores administrar empleados, conceptos salarial
 1. Instalar **XAMPP** y encender **Apache** y **MySQL**
 2. Copiar la carpeta del proyecto dentro de `xampp/htdocs`
 3. Importar la base de datos (`.sql`) en **phpMyAdmin**
-4. Copiá conexionEjemplo.php a conexion.php y configurá con la base de datos.
+4. Configurar `conexion.php`.
 5. Abrir en el navegador: `http://localhost/NOMBRE_CARPETA/logininiciosesiones.php`
  
 ---
