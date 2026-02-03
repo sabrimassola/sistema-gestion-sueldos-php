@@ -2,8 +2,7 @@
 $user = "root";
 $host = "localhost";
 $bd = "basededatosproyecto";
-$password = ""; // Agrega la contraseña si es necesaria
-
+$password = ""; 
 $mysqli = mysqli_connect($host, $user, $password, $bd);
 
 if (!$mysqli) {
